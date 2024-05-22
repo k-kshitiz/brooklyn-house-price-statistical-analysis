@@ -1,1 +1,1 @@
-# brooklyn-house-price-statistical-analysis
+# Statistical Analysis of Brooklyn Housing Prices
